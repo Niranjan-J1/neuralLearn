@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libneural_core.a CMakeFiles/neural_core.dir/src/nn/neural.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libneural_core.a
